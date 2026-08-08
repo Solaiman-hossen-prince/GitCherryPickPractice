@@ -5,3 +5,4 @@ Remember Me Feature
 OTP Login
 Improve Login UI
 Social Login Support
+Two-Factor Authentication
