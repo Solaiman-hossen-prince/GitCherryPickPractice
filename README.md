@@ -7,3 +7,4 @@ Improve Login UI
 Social Login Support
 Two-Factor Authentication
 Clear 2FA verification message
+Ready for beta testing
