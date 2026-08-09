@@ -10,4 +10,4 @@ Clear 2FA verification message
 Ready for beta testing
 2FA verification completed successfully
 Security login validation improved
-Master login security policy
+Hotfix login security policy
