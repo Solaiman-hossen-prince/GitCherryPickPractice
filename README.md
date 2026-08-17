@@ -13,3 +13,5 @@ Security login validation improved
 Hotfix login security policy
 Master security configuration - Hotfix applied
 Master-side integration update
+Professional integration demo
+Professional integration validation
