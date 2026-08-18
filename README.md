@@ -17,3 +17,4 @@ Professional integration demo
 Professional integration validation
 Release v1.3.0 preparation started
 Release v1.3.0 validation completed
+Development started for release v1.3.1
