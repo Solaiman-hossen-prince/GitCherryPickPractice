@@ -21,3 +21,4 @@ Development started for release v1.3.1
 Security audit logging improved for v1.3.1
 Release v1.3.1 candidate preparation started
 Release v1.3.1 candidate validation completed
+Development started for release v1.4.0
