@@ -23,3 +23,4 @@ Release v1.3.1 candidate preparation started
 Release v1.3.1 candidate validation completed
 Development started for release v1.4.0
 Security monitoring foundation added for v1.4.0
+Security monitoring alert validation completed for v1.4.0
