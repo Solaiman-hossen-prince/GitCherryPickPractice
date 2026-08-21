@@ -27,3 +27,4 @@ Security monitoring alert validation completed for v1.4.0
 Release v1.4.0 candidate preparation started
 Release v1.4.0 candidate validation completed
 Development started for release v1.5.0
+Security alert monitoring foundation added for v1.5.0
