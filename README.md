@@ -35,3 +35,4 @@ Audit dashboard foundation added for v1.6.0
 Audit dashboard access validation completed for v1.6.0
 Release v1.6.0 candidate preparation started
 Activity logging foundation added for v1.7.0
+Activity logging validation completed for v1.7.0
