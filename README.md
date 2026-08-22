@@ -37,3 +37,4 @@ Release v1.6.0 candidate preparation started
 Activity logging foundation added for v1.7.0
 Activity logging validation completed for v1.7.0
 Activity log filtering foundation added for v1.7.0
+Activity log filtering validation completed for v1.7.0
