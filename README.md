@@ -33,3 +33,4 @@ Release v1.5.0 candidate preparation started
 Release v1.5.0 candidate validation completed
 Audit dashboard foundation added for v1.6.0
 Audit dashboard access validation completed for v1.6.0
+Release v1.6.0 candidate preparation started
