@@ -39,3 +39,4 @@ Activity logging validation completed for v1.7.0
 Activity log filtering foundation added for v1.7.0
 Activity log filtering validation completed for v1.7.0
 Release v1.7.0 candidate preparation started
+Activity export foundation added for v1.8.0
