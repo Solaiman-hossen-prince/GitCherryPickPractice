@@ -45,3 +45,4 @@ Activity export history foundation added for v1.8.0
 Activity export history validation completed for v1.8.0
 Release v1.8.0 candidate preparation started
 Master configuration update for rebase laboratory
+Rebase laboratory foundation added
