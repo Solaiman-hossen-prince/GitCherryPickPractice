@@ -56,3 +56,4 @@ Activity logging documentation improved
 Activity logging minor validation fix
 Activity logging autosquash correction
 Conflict source branch change
+Skip practice already applied
