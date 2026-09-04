@@ -73,3 +73,4 @@ Authentication security checks
 Authentication validation rules
 User profile foundation
 User profile validation
+User profile API integration
