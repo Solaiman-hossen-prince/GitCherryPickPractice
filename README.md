@@ -71,3 +71,5 @@ Production API error handling
 Production authentication foundation
 Authentication security checks
 Authentication validation rules
+User profile foundation
+User profile validation
