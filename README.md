@@ -80,3 +80,4 @@ Hotfix: strengthen authentication validation
 Multi cherry-pick feature A
 Multi cherry-pick feature B
 Security audit traceability
+Reset lab commit A
